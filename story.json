@@ -1,0 +1,28 @@
+{
+    "title_en": "Little Red Hen",
+    "title": "బుజ్జి ఎర్ర కోడి",
+    "cover_image": "cover.png",
+    "pages_count": 2,
+    "pages": [
+        {
+            "english": "Once upon a time there was a little red hen. She lived on a pleasant farm and ate the food she grew there.",
+            "telugu": "అనగనగా వక బుజ్జి ఎర్ర కోడి ఉండేది. వక ప్రశాంత మయిన పొలములో పండినవి తిని ఆనందంగా ఉండేది.",
+            "image": "scene01.png"
+        },
+        {
+            "english": "One day the little red hen found a grain of foxtail millet. She thought she would plant it to grow more grain for herself. \"Who will help me plant this grain of foxtail millet?\" asked the little red hen.",
+            "telugu": "వక రోజు ఆ బుజ్జి కోడికి వక కొర్రలు విత్తనం దొరికింది. తనుకోసం కొర్రలు పండించుకుందాం అనుకున్నది. \"ఎవరు నాకు సహాయం చేస్తారు ఈ కొర్ర విత్తనాలు నాటటానికి?\" అడిగింది ఆ బుజ్జి కోడి",
+            "image": "scene02.png"
+        },
+        {
+           "english":"Not I, said the duck, but I’ll sell you some coffee bushes.You’ll make lots of money if you grow coffee instead of wheat.",
+           "telugu": "నేను కాదు, బాతు చెప్పాను, కాని నేను కొన్ని కాఫీ పొదలను విక్రయిస్తాను. మీరు గోధుమకు బదులుగా కాఫీని పెరగితే మీరు మా డబ్బును చేస్తారు.",
+           "image":"scene03.png"
+        },
+        {
+           "english":"Not I,said the pig, but I’ll buy the coffee from you when you’ve grown it.",
+           "telugu": "నేను కాదు, పంది చెప్పాడు, కానీ నేను మీ నుండి కాఫీ కొనుగోలు చేస్తాము మీరు అది పెరిగింది.",
+           "image":"scene04.png"
+         }
+    ]
+}
